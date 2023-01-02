@@ -1,0 +1,8 @@
+C:\C#\OOP-KT(02)\Polymorphism3\bin\Debug\Polymorphism3.exe.config
+C:\C#\OOP-KT(02)\Polymorphism3\bin\Debug\Polymorphism3.exe
+C:\C#\OOP-KT(02)\Polymorphism3\bin\Debug\Polymorphism3.pdb
+C:\C#\OOP-KT(02)\Polymorphism3\obj\Debug\Polymorphism3.csproj.AssemblyReference.cache
+C:\C#\OOP-KT(02)\Polymorphism3\obj\Debug\Polymorphism3.csproj.SuggestedBindingRedirects.cache
+C:\C#\OOP-KT(02)\Polymorphism3\obj\Debug\Polymorphism3.csproj.CoreCompileInputs.cache
+C:\C#\OOP-KT(02)\Polymorphism3\obj\Debug\Polymorphism3.exe
+C:\C#\OOP-KT(02)\Polymorphism3\obj\Debug\Polymorphism3.pdb

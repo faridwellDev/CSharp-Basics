@@ -1,0 +1,8 @@
+C:\C#\OOP\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+C:\C#\OOP\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.SuggestedBindingRedirects.cache
+C:\C#\OOP\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\C#\OOP\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\C#\OOP\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\C#\OOP\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\C#\OOP\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\C#\OOP\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

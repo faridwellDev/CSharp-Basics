@@ -1,0 +1,8 @@
+C:\C#\OOP\GeneSpecia\bin\Debug\GeneSpecia.exe.config
+C:\C#\OOP\GeneSpecia\bin\Debug\GeneSpecia.exe
+C:\C#\OOP\GeneSpecia\bin\Debug\GeneSpecia.pdb
+C:\C#\OOP\GeneSpecia\obj\Debug\GeneSpecia.csproj.AssemblyReference.cache
+C:\C#\OOP\GeneSpecia\obj\Debug\GeneSpecia.csproj.SuggestedBindingRedirects.cache
+C:\C#\OOP\GeneSpecia\obj\Debug\GeneSpecia.csproj.CoreCompileInputs.cache
+C:\C#\OOP\GeneSpecia\obj\Debug\GeneSpecia.exe
+C:\C#\OOP\GeneSpecia\obj\Debug\GeneSpecia.pdb

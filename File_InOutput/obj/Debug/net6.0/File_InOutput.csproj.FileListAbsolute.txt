@@ -1,0 +1,15 @@
+C:\C#\File_InOutput\bin\Debug\net6.0\File_InOutput.exe
+C:\C#\File_InOutput\bin\Debug\net6.0\File_InOutput.deps.json
+C:\C#\File_InOutput\bin\Debug\net6.0\File_InOutput.runtimeconfig.json
+C:\C#\File_InOutput\bin\Debug\net6.0\File_InOutput.dll
+C:\C#\File_InOutput\bin\Debug\net6.0\File_InOutput.pdb
+C:\C#\File_InOutput\obj\Debug\net6.0\File_InOutput.csproj.AssemblyReference.cache
+C:\C#\File_InOutput\obj\Debug\net6.0\File_InOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\File_InOutput\obj\Debug\net6.0\File_InOutput.AssemblyInfoInputs.cache
+C:\C#\File_InOutput\obj\Debug\net6.0\File_InOutput.AssemblyInfo.cs
+C:\C#\File_InOutput\obj\Debug\net6.0\File_InOutput.csproj.CoreCompileInputs.cache
+C:\C#\File_InOutput\obj\Debug\net6.0\File_InOutput.dll
+C:\C#\File_InOutput\obj\Debug\net6.0\refint\File_InOutput.dll
+C:\C#\File_InOutput\obj\Debug\net6.0\File_InOutput.pdb
+C:\C#\File_InOutput\obj\Debug\net6.0\File_InOutput.genruntimeconfig.cache
+C:\C#\File_InOutput\obj\Debug\net6.0\ref\File_InOutput.dll

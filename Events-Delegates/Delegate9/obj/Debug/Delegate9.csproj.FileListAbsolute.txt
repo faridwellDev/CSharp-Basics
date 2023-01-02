@@ -1,0 +1,8 @@
+C:\C#\Events-Delegates\Delegate9\bin\Debug\Delegate9.exe.config
+C:\C#\Events-Delegates\Delegate9\bin\Debug\Delegate9.exe
+C:\C#\Events-Delegates\Delegate9\bin\Debug\Delegate9.pdb
+C:\C#\Events-Delegates\Delegate9\obj\Debug\Delegate9.csproj.AssemblyReference.cache
+C:\C#\Events-Delegates\Delegate9\obj\Debug\Delegate9.csproj.SuggestedBindingRedirects.cache
+C:\C#\Events-Delegates\Delegate9\obj\Debug\Delegate9.csproj.CoreCompileInputs.cache
+C:\C#\Events-Delegates\Delegate9\obj\Debug\Delegate9.exe
+C:\C#\Events-Delegates\Delegate9\obj\Debug\Delegate9.pdb

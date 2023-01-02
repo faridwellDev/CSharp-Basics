@@ -1,0 +1,8 @@
+C:\C#\OOP\PartialClassMethods\bin\Debug\PartialClassMethods.exe.config
+C:\C#\OOP\PartialClassMethods\bin\Debug\PartialClassMethods.exe
+C:\C#\OOP\PartialClassMethods\bin\Debug\PartialClassMethods.pdb
+C:\C#\OOP\PartialClassMethods\obj\Debug\PartialClassMethods.csproj.AssemblyReference.cache
+C:\C#\OOP\PartialClassMethods\obj\Debug\PartialClassMethods.csproj.SuggestedBindingRedirects.cache
+C:\C#\OOP\PartialClassMethods\obj\Debug\PartialClassMethods.csproj.CoreCompileInputs.cache
+C:\C#\OOP\PartialClassMethods\obj\Debug\PartialClassMethods.exe
+C:\C#\OOP\PartialClassMethods\obj\Debug\PartialClassMethods.pdb

@@ -1,0 +1,15 @@
+C:\C#\wellDev_1\bin\Debug\net6.0\wellDev_1.exe
+C:\C#\wellDev_1\bin\Debug\net6.0\wellDev_1.deps.json
+C:\C#\wellDev_1\bin\Debug\net6.0\wellDev_1.runtimeconfig.json
+C:\C#\wellDev_1\bin\Debug\net6.0\wellDev_1.dll
+C:\C#\wellDev_1\bin\Debug\net6.0\wellDev_1.pdb
+C:\C#\wellDev_1\obj\Debug\net6.0\wellDev_1.csproj.AssemblyReference.cache
+C:\C#\wellDev_1\obj\Debug\net6.0\wellDev_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\wellDev_1\obj\Debug\net6.0\wellDev_1.AssemblyInfoInputs.cache
+C:\C#\wellDev_1\obj\Debug\net6.0\wellDev_1.AssemblyInfo.cs
+C:\C#\wellDev_1\obj\Debug\net6.0\wellDev_1.csproj.CoreCompileInputs.cache
+C:\C#\wellDev_1\obj\Debug\net6.0\wellDev_1.dll
+C:\C#\wellDev_1\obj\Debug\net6.0\refint\wellDev_1.dll
+C:\C#\wellDev_1\obj\Debug\net6.0\wellDev_1.pdb
+C:\C#\wellDev_1\obj\Debug\net6.0\wellDev_1.genruntimeconfig.cache
+C:\C#\wellDev_1\obj\Debug\net6.0\ref\wellDev_1.dll

@@ -1,0 +1,15 @@
+C:\C#\Nullable_Types\bin\Debug\net6.0\Nullable_Types.exe
+C:\C#\Nullable_Types\bin\Debug\net6.0\Nullable_Types.deps.json
+C:\C#\Nullable_Types\bin\Debug\net6.0\Nullable_Types.runtimeconfig.json
+C:\C#\Nullable_Types\bin\Debug\net6.0\Nullable_Types.dll
+C:\C#\Nullable_Types\bin\Debug\net6.0\Nullable_Types.pdb
+C:\C#\Nullable_Types\obj\Debug\net6.0\Nullable_Types.csproj.AssemblyReference.cache
+C:\C#\Nullable_Types\obj\Debug\net6.0\Nullable_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Nullable_Types\obj\Debug\net6.0\Nullable_Types.AssemblyInfoInputs.cache
+C:\C#\Nullable_Types\obj\Debug\net6.0\Nullable_Types.AssemblyInfo.cs
+C:\C#\Nullable_Types\obj\Debug\net6.0\Nullable_Types.csproj.CoreCompileInputs.cache
+C:\C#\Nullable_Types\obj\Debug\net6.0\Nullable_Types.dll
+C:\C#\Nullable_Types\obj\Debug\net6.0\refint\Nullable_Types.dll
+C:\C#\Nullable_Types\obj\Debug\net6.0\Nullable_Types.pdb
+C:\C#\Nullable_Types\obj\Debug\net6.0\Nullable_Types.genruntimeconfig.cache
+C:\C#\Nullable_Types\obj\Debug\net6.0\ref\Nullable_Types.dll

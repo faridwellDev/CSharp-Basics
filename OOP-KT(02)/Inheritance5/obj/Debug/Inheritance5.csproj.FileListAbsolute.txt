@@ -1,0 +1,8 @@
+C:\C#\OOP-KT(02)\Inheritance5\bin\Debug\Inheritance5.exe.config
+C:\C#\OOP-KT(02)\Inheritance5\bin\Debug\Inheritance5.exe
+C:\C#\OOP-KT(02)\Inheritance5\bin\Debug\Inheritance5.pdb
+C:\C#\OOP-KT(02)\Inheritance5\obj\Debug\Inheritance5.csproj.AssemblyReference.cache
+C:\C#\OOP-KT(02)\Inheritance5\obj\Debug\Inheritance5.csproj.SuggestedBindingRedirects.cache
+C:\C#\OOP-KT(02)\Inheritance5\obj\Debug\Inheritance5.csproj.CoreCompileInputs.cache
+C:\C#\OOP-KT(02)\Inheritance5\obj\Debug\Inheritance5.exe
+C:\C#\OOP-KT(02)\Inheritance5\obj\Debug\Inheritance5.pdb

@@ -1,0 +1,8 @@
+C:\C#\Events-Delegates\Delegate5\bin\Debug\Delegate5.exe.config
+C:\C#\Events-Delegates\Delegate5\bin\Debug\Delegate5.exe
+C:\C#\Events-Delegates\Delegate5\bin\Debug\Delegate5.pdb
+C:\C#\Events-Delegates\Delegate5\obj\Debug\Delegate5.csproj.AssemblyReference.cache
+C:\C#\Events-Delegates\Delegate5\obj\Debug\Delegate5.csproj.SuggestedBindingRedirects.cache
+C:\C#\Events-Delegates\Delegate5\obj\Debug\Delegate5.csproj.CoreCompileInputs.cache
+C:\C#\Events-Delegates\Delegate5\obj\Debug\Delegate5.exe
+C:\C#\Events-Delegates\Delegate5\obj\Debug\Delegate5.pdb

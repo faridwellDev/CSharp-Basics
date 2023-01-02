@@ -1,0 +1,8 @@
+C:\C#\OOP\IS-AHAS-A\bin\Debug\IS-AHAS-A.exe.config
+C:\C#\OOP\IS-AHAS-A\bin\Debug\IS-AHAS-A.exe
+C:\C#\OOP\IS-AHAS-A\bin\Debug\IS-AHAS-A.pdb
+C:\C#\OOP\IS-AHAS-A\obj\Debug\IS-AHAS-A.csproj.AssemblyReference.cache
+C:\C#\OOP\IS-AHAS-A\obj\Debug\IS-AHAS-A.csproj.SuggestedBindingRedirects.cache
+C:\C#\OOP\IS-AHAS-A\obj\Debug\IS-AHAS-A.csproj.CoreCompileInputs.cache
+C:\C#\OOP\IS-AHAS-A\obj\Debug\IS-AHAS-A.exe
+C:\C#\OOP\IS-AHAS-A\obj\Debug\IS-AHAS-A.pdb

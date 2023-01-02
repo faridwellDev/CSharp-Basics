@@ -1,0 +1,8 @@
+C:\C#\OOP-KT(02)\Inheritance8\bin\Debug\Inheritance8.exe.config
+C:\C#\OOP-KT(02)\Inheritance8\bin\Debug\Inheritance8.exe
+C:\C#\OOP-KT(02)\Inheritance8\bin\Debug\Inheritance8.pdb
+C:\C#\OOP-KT(02)\Inheritance8\obj\Debug\Inheritance8.csproj.AssemblyReference.cache
+C:\C#\OOP-KT(02)\Inheritance8\obj\Debug\Inheritance8.csproj.SuggestedBindingRedirects.cache
+C:\C#\OOP-KT(02)\Inheritance8\obj\Debug\Inheritance8.csproj.CoreCompileInputs.cache
+C:\C#\OOP-KT(02)\Inheritance8\obj\Debug\Inheritance8.exe
+C:\C#\OOP-KT(02)\Inheritance8\obj\Debug\Inheritance8.pdb

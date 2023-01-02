@@ -1,0 +1,15 @@
+C:\C#\OOP\SingletonDemoV1\bin\Debug\net6.0\SingletonDemoV1.exe
+C:\C#\OOP\SingletonDemoV1\bin\Debug\net6.0\SingletonDemoV1.deps.json
+C:\C#\OOP\SingletonDemoV1\bin\Debug\net6.0\SingletonDemoV1.runtimeconfig.json
+C:\C#\OOP\SingletonDemoV1\bin\Debug\net6.0\SingletonDemoV1.dll
+C:\C#\OOP\SingletonDemoV1\bin\Debug\net6.0\SingletonDemoV1.pdb
+C:\C#\OOP\SingletonDemoV1\obj\Debug\net6.0\SingletonDemoV1.csproj.AssemblyReference.cache
+C:\C#\OOP\SingletonDemoV1\obj\Debug\net6.0\SingletonDemoV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\OOP\SingletonDemoV1\obj\Debug\net6.0\SingletonDemoV1.AssemblyInfoInputs.cache
+C:\C#\OOP\SingletonDemoV1\obj\Debug\net6.0\SingletonDemoV1.AssemblyInfo.cs
+C:\C#\OOP\SingletonDemoV1\obj\Debug\net6.0\SingletonDemoV1.csproj.CoreCompileInputs.cache
+C:\C#\OOP\SingletonDemoV1\obj\Debug\net6.0\SingletonDemoV1.dll
+C:\C#\OOP\SingletonDemoV1\obj\Debug\net6.0\refint\SingletonDemoV1.dll
+C:\C#\OOP\SingletonDemoV1\obj\Debug\net6.0\SingletonDemoV1.pdb
+C:\C#\OOP\SingletonDemoV1\obj\Debug\net6.0\SingletonDemoV1.genruntimeconfig.cache
+C:\C#\OOP\SingletonDemoV1\obj\Debug\net6.0\ref\SingletonDemoV1.dll

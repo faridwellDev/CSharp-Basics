@@ -1,0 +1,8 @@
+C:\C#\Events-Delegates\Delegate14\bin\Debug\Delegate14.exe.config
+C:\C#\Events-Delegates\Delegate14\bin\Debug\Delegate14.exe
+C:\C#\Events-Delegates\Delegate14\bin\Debug\Delegate14.pdb
+C:\C#\Events-Delegates\Delegate14\obj\Debug\Delegate14.csproj.AssemblyReference.cache
+C:\C#\Events-Delegates\Delegate14\obj\Debug\Delegate14.csproj.SuggestedBindingRedirects.cache
+C:\C#\Events-Delegates\Delegate14\obj\Debug\Delegate14.csproj.CoreCompileInputs.cache
+C:\C#\Events-Delegates\Delegate14\obj\Debug\Delegate14.exe
+C:\C#\Events-Delegates\Delegate14\obj\Debug\Delegate14.pdb

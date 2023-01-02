@@ -1,0 +1,8 @@
+C:\C#\Events-Delegates\Delegate6\bin\Debug\Delegate6.exe.config
+C:\C#\Events-Delegates\Delegate6\bin\Debug\Delegate6.exe
+C:\C#\Events-Delegates\Delegate6\bin\Debug\Delegate6.pdb
+C:\C#\Events-Delegates\Delegate6\obj\Debug\Delegate6.csproj.AssemblyReference.cache
+C:\C#\Events-Delegates\Delegate6\obj\Debug\Delegate6.csproj.SuggestedBindingRedirects.cache
+C:\C#\Events-Delegates\Delegate6\obj\Debug\Delegate6.csproj.CoreCompileInputs.cache
+C:\C#\Events-Delegates\Delegate6\obj\Debug\Delegate6.exe
+C:\C#\Events-Delegates\Delegate6\obj\Debug\Delegate6.pdb

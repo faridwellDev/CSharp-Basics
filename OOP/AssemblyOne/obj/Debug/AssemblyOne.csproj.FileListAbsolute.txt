@@ -1,0 +1,6 @@
+C:\C#\OOP\AssemblyOne\obj\Debug\AssemblyOne.csproj.AssemblyReference.cache
+C:\C#\OOP\AssemblyOne\obj\Debug\AssemblyOne.csproj.CoreCompileInputs.cache
+C:\C#\OOP\AssemblyOne\bin\Debug\AssemblyOne.dll
+C:\C#\OOP\AssemblyOne\bin\Debug\AssemblyOne.pdb
+C:\C#\OOP\AssemblyOne\obj\Debug\AssemblyOne.dll
+C:\C#\OOP\AssemblyOne\obj\Debug\AssemblyOne.pdb

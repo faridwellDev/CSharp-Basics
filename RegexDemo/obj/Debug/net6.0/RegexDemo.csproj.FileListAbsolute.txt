@@ -1,0 +1,16 @@
+C:\C#\RegexDemo\bin\Debug\net6.0\RegexDemo.exe
+C:\C#\RegexDemo\bin\Debug\net6.0\RegexDemo.deps.json
+C:\C#\RegexDemo\bin\Debug\net6.0\RegexDemo.runtimeconfig.json
+C:\C#\RegexDemo\bin\Debug\net6.0\RegexDemo.dll
+C:\C#\RegexDemo\bin\Debug\net6.0\RegexDemo.pdb
+C:\C#\RegexDemo\obj\Debug\net6.0\RegexDemo.csproj.AssemblyReference.cache
+C:\C#\RegexDemo\obj\Debug\net6.0\RegexDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\RegexDemo\obj\Debug\net6.0\RegexDemo.AssemblyInfoInputs.cache
+C:\C#\RegexDemo\obj\Debug\net6.0\RegexDemo.AssemblyInfo.cs
+C:\C#\RegexDemo\obj\Debug\net6.0\RegexDemo.csproj.CoreCompileInputs.cache
+C:\C#\RegexDemo\obj\Debug\net6.0\RegexDemo.dll
+C:\C#\RegexDemo\obj\Debug\net6.0\refint\RegexDemo.dll
+C:\C#\RegexDemo\obj\Debug\net6.0\RegexDemo.pdb
+C:\C#\RegexDemo\obj\Debug\net6.0\RegexDemo.genruntimeconfig.cache
+C:\C#\RegexDemo\obj\Debug\net6.0\ref\RegexDemo.dll
+C:\C#\RegexDemo\bin\Debug\net6.0\test.txt

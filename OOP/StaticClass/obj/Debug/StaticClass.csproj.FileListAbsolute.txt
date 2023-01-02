@@ -1,0 +1,8 @@
+C:\C#\OOP\StaticClass\obj\Debug\StaticClass.csproj.AssemblyReference.cache
+C:\C#\OOP\StaticClass\obj\Debug\StaticClass.csproj.SuggestedBindingRedirects.cache
+C:\C#\OOP\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+C:\C#\OOP\StaticClass\bin\Debug\StaticClass.exe.config
+C:\C#\OOP\StaticClass\bin\Debug\StaticClass.exe
+C:\C#\OOP\StaticClass\bin\Debug\StaticClass.pdb
+C:\C#\OOP\StaticClass\obj\Debug\StaticClass.exe
+C:\C#\OOP\StaticClass\obj\Debug\StaticClass.pdb

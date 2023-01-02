@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegexDemo", "RegexDemo.csproj", "{3D76504B-C3B2-4104-A07E-9D94966D64E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegexDemoPrac", "..\RegexDemoPrac\RegexDemoPrac.csproj", "{7ACA7CED-CA73-4A6F-A18D-EB6209D7A7B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "..\String\String.csproj", "{BCC8050E-B707-496D-A088-26E4026E8B10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D76504B-C3B2-4104-A07E-9D94966D64E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D76504B-C3B2-4104-A07E-9D94966D64E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D76504B-C3B2-4104-A07E-9D94966D64E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D76504B-C3B2-4104-A07E-9D94966D64E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACA7CED-CA73-4A6F-A18D-EB6209D7A7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACA7CED-CA73-4A6F-A18D-EB6209D7A7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACA7CED-CA73-4A6F-A18D-EB6209D7A7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACA7CED-CA73-4A6F-A18D-EB6209D7A7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC8050E-B707-496D-A088-26E4026E8B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC8050E-B707-496D-A088-26E4026E8B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC8050E-B707-496D-A088-26E4026E8B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC8050E-B707-496D-A088-26E4026E8B10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED388B4B-2856-4967-BA08-5FE26ED39078}
+	EndGlobalSection
+EndGlobal

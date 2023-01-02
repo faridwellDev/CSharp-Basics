@@ -1,0 +1,8 @@
+C:\C#\OOP\VariableReferenceAndInstance\bin\Debug\VariableReferenceAndInstance.exe.config
+C:\C#\OOP\VariableReferenceAndInstance\bin\Debug\VariableReferenceAndInstance.exe
+C:\C#\OOP\VariableReferenceAndInstance\bin\Debug\VariableReferenceAndInstance.pdb
+C:\C#\OOP\VariableReferenceAndInstance\obj\Debug\VariableReferenceAndInstance.csproj.AssemblyReference.cache
+C:\C#\OOP\VariableReferenceAndInstance\obj\Debug\VariableReferenceAndInstance.csproj.SuggestedBindingRedirects.cache
+C:\C#\OOP\VariableReferenceAndInstance\obj\Debug\VariableReferenceAndInstance.csproj.CoreCompileInputs.cache
+C:\C#\OOP\VariableReferenceAndInstance\obj\Debug\VariableReferenceAndInstance.exe
+C:\C#\OOP\VariableReferenceAndInstance\obj\Debug\VariableReferenceAndInstance.pdb

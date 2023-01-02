@@ -1,0 +1,8 @@
+C:\C#\OOP-KT(02)\Inheritance6\bin\Debug\Inheritance6.exe.config
+C:\C#\OOP-KT(02)\Inheritance6\bin\Debug\Inheritance6.exe
+C:\C#\OOP-KT(02)\Inheritance6\bin\Debug\Inheritance6.pdb
+C:\C#\OOP-KT(02)\Inheritance6\obj\Debug\Inheritance6.csproj.AssemblyReference.cache
+C:\C#\OOP-KT(02)\Inheritance6\obj\Debug\Inheritance6.csproj.SuggestedBindingRedirects.cache
+C:\C#\OOP-KT(02)\Inheritance6\obj\Debug\Inheritance6.csproj.CoreCompileInputs.cache
+C:\C#\OOP-KT(02)\Inheritance6\obj\Debug\Inheritance6.exe
+C:\C#\OOP-KT(02)\Inheritance6\obj\Debug\Inheritance6.pdb

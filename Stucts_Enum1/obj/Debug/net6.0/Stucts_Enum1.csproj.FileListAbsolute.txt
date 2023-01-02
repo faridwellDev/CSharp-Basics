@@ -1,0 +1,15 @@
+C:\C#\Stucts_Enum1\bin\Debug\net6.0\Stucts_Enum1.exe
+C:\C#\Stucts_Enum1\bin\Debug\net6.0\Stucts_Enum1.deps.json
+C:\C#\Stucts_Enum1\bin\Debug\net6.0\Stucts_Enum1.runtimeconfig.json
+C:\C#\Stucts_Enum1\bin\Debug\net6.0\Stucts_Enum1.dll
+C:\C#\Stucts_Enum1\bin\Debug\net6.0\Stucts_Enum1.pdb
+C:\C#\Stucts_Enum1\obj\Debug\net6.0\Stucts_Enum1.csproj.AssemblyReference.cache
+C:\C#\Stucts_Enum1\obj\Debug\net6.0\Stucts_Enum1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Stucts_Enum1\obj\Debug\net6.0\Stucts_Enum1.AssemblyInfoInputs.cache
+C:\C#\Stucts_Enum1\obj\Debug\net6.0\Stucts_Enum1.AssemblyInfo.cs
+C:\C#\Stucts_Enum1\obj\Debug\net6.0\Stucts_Enum1.csproj.CoreCompileInputs.cache
+C:\C#\Stucts_Enum1\obj\Debug\net6.0\Stucts_Enum1.dll
+C:\C#\Stucts_Enum1\obj\Debug\net6.0\refint\Stucts_Enum1.dll
+C:\C#\Stucts_Enum1\obj\Debug\net6.0\Stucts_Enum1.pdb
+C:\C#\Stucts_Enum1\obj\Debug\net6.0\Stucts_Enum1.genruntimeconfig.cache
+C:\C#\Stucts_Enum1\obj\Debug\net6.0\ref\Stucts_Enum1.dll

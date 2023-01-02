@@ -1,0 +1,11 @@
+C:\C#\OOP\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe.config
+C:\C#\OOP\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe
+C:\C#\OOP\AccessSpecifiers\bin\Debug\AccessSpecifiers.pdb
+C:\C#\OOP\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.AssemblyReference.cache
+C:\C#\OOP\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.SuggestedBindingRedirects.cache
+C:\C#\OOP\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.CoreCompileInputs.cache
+C:\C#\OOP\AccessSpecifiers\obj\Debug\AccessSpecifiers.exe
+C:\C#\OOP\AccessSpecifiers\obj\Debug\AccessSpecifiers.pdb
+C:\C#\OOP\AccessSpecifiers\bin\Debug\AssemblyOne.dll
+C:\C#\OOP\AccessSpecifiers\bin\Debug\AssemblyOne.pdb
+C:\C#\OOP\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.CopyComplete
